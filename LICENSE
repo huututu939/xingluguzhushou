@@ -1,0 +1,47 @@
+星露小助手 · 发布仓库 —— 许可范围说明
+======================================================================
+
+本仓库**不含 App 源码**（本 App 不开源自己的源码）。仓库根目录的 MIT
+License **适用于 tools/ 目录下的电脑端推送脚本与电脑端模组**；其余内容
+各有各的协议，**不适用**根 MIT：
+
+  · tools/  电脑端推送脚本（send_save.bat）与电脑端模组
+             （save_auto_push.zip，「存档自动推送」SMAPI 模组）——
+             都是本项目自己的作品，随根 MIT 发布。
+  · data/    整理后的游戏数据，适用 CC BY-NC-SA 3.0 Unported
+             （署名 + 非商业 + 同协议共享）。协议全文见 data/LICENSE，
+             说明见 data/README.md。
+             CC BY-NC-SA 与 MIT **不兼容**：MIT 允许无限制地再许可与附加
+             自由，CC 则要求 copyleft、非商业与同协议共享。故 data/
+             明确排除在根 MIT 之外 —— 二者并存不构成「双授权」。
+  · apk/     构建产物（APK 二进制）。包内含 CC BY-NC-SA 3.0 的整理数据、
+             SIL OFL 1.1 的字体子集（TutuPixel）、Apache-2.0 的玻璃算法
+             移植件（AndroidLiquidGlass），适用各该协议；归属与协议全文见
+             APK 内「设置 → 关于 → 数据来源与协议」。
+  · mods/    第三方 Mod 扩展包，版权归原作者所有，按其授权条款使用。
+  · version.json / README.md / .gitattributes
+             本仓库自身的版本清单与说明文件，随根 MIT。
+
+======================================================================
+
+MIT License
+
+Copyright (c) 2026 hututu00
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
