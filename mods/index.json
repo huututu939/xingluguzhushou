@@ -1,0 +1,95 @@
+{
+  "packages": [
+    {
+      "modId": "sve",
+      "name": "SVE 扩展整包（含全部内容）",
+      "version": "2.10",
+      "author": "FlashShifter",
+      "description": "SVE扩展包：NPC生日、五段礼物、头像、概要行程、作物图鉴、料理、44 种鱼（含季节/天气/时段/难度/钓点）、商店、红心事件与地点",
+      "icon": "",
+      "downloadUrl": "https://github.com/huututu939/xingluguzhushou/releases/download/v2.151.0/sve_expansion_v2.10.zip",
+      "minAppVersion": "2.40.0",
+      "updatedAt": "2026-10-20",
+      "size": 327405,
+      "md5": "bdde354be8e137da5a2defa43b5db260"
+    },
+    {
+      "modId": "sve-villagers",
+      "name": "SVE 村民",
+      "version": "1.0",
+      "author": "FlashShifter",
+      "description": "SVE 的 14 位村民：生日、五段礼物、头像、概要行程、红心事件链",
+      "icon": "",
+      "downloadUrl": "https://github.com/huututu939/xingluguzhushou/releases/download/v2.151.0/sve_villagers_v1.0.zip",
+      "minAppVersion": "2.40.0",
+      "updatedAt": "2026-10-19",
+      "size": 243309,
+      "md5": "5668694974eb0d4eaeee12c4e98c8120"
+    },
+    {
+      "modId": "sve-crops",
+      "name": "SVE 作物",
+      "version": "1.0",
+      "author": "FlashShifter",
+      "description": "SVE 新增的 12 种作物，含成长阶段图标",
+      "icon": "",
+      "downloadUrl": "https://github.com/huututu939/xingluguzhushou/releases/download/v2.151.0/sve_crops_v1.0.zip",
+      "minAppVersion": "2.40.0",
+      "updatedAt": "2026-10-19",
+      "size": 23882,
+      "md5": "a93bb89181d72389f625d0713e02e2a3"
+    },
+    {
+      "modId": "sve-recipes",
+      "name": "SVE 料理",
+      "version": "1.0",
+      "author": "FlashShifter",
+      "description": "SVE 新增的 20 道料理，含材料、解锁条件与官方图标",
+      "icon": "",
+      "downloadUrl": "https://github.com/huututu939/xingluguzhushou/releases/download/v2.151.0/sve_recipes_v1.0.zip",
+      "minAppVersion": "2.40.0",
+      "updatedAt": "2026-10-19",
+      "size": 20720,
+      "md5": "a16b482279de9bcc3e80884018ebf2c3"
+    },
+    {
+      "modId": "sve-fish",
+      "name": "SVE 鱼",
+      "version": "1.1",
+      "author": "FlashShifter",
+      "description": "SVE 新增的 44 种鱼，含季节/天气/时段/难度/钓点与官方图标",
+      "icon": "",
+      "downloadUrl": "https://github.com/huututu939/xingluguzhushou/releases/download/v2.151.0/sve_fish_v1.1.zip",
+      "minAppVersion": "2.40.0",
+      "updatedAt": "2026-10-20",
+      "size": 39845,
+      "md5": "ef09c78f1a4ee132803aca7e0231ac6c"
+    },
+    {
+      "modId": "sve-shops",
+      "name": "SVE 商店",
+      "version": "1.0",
+      "author": "FlashShifter",
+      "description": "SVE 新增的 22 个商店概要：店主、位置、商品数、类别",
+      "icon": "",
+      "downloadUrl": "https://github.com/huututu939/xingluguzhushou/releases/download/v2.151.0/sve_shops_v1.0.zip",
+      "minAppVersion": "2.40.0",
+      "updatedAt": "2026-10-19",
+      "size": 1420,
+      "md5": "8b4d92169715ba153005e09fd7acb6c6"
+    },
+    {
+      "modId": "sve-locations",
+      "name": "SVE 地点",
+      "version": "1.0",
+      "author": "FlashShifter",
+      "description": "SVE 新增的 20 个主要地点，含相关 NPC 与节日说明",
+      "icon": "",
+      "downloadUrl": "https://github.com/huututu939/xingluguzhushou/releases/download/v2.151.0/sve_locations_v1.0.zip",
+      "minAppVersion": "2.40.0",
+      "updatedAt": "2026-10-19",
+      "size": 1782,
+      "md5": "64a2b5bcdefb98558ffbdc8e5d5737a5"
+    }
+  ]
+}
