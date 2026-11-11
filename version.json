@@ -1,15 +1,15 @@
 {
-  "versionCode": 241,
-  "versionName": "2.151.0",
-  "date": "2026-11-10",
+  "versionCode": 242,
+  "versionName": "2.152.0",
+  "date": "2026-11-11",
   "notes": [
     "新增：",
-    "1. 源码公开到 GitHub，欢迎自行 fork",
-    "2. 去掉个人联系方式与收款码",
+    "1. 移除致谢与赞助名单",
+    "2. 说明改为更新频率放缓",
     "修复：",
-    "1. 修复 tools 脚本写死本机路径"
+    "1. 修复更新检查链接钉死版本号"
   ],
-  "apk": "stardew-assistant_v2.151.0_c241.apk",
-  "size": 4271777,
-  "md5": "40d143b554563a6cc4309a479485aa61"
+  "apk": "stardew-assistant_v2.152.0_c242.apk",
+  "size": 4271773,
+  "md5": "6ef47e2a8c717da6177fa46065496cd4"
 }
