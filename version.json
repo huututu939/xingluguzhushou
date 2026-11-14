@@ -1,0 +1,13 @@
+{
+  "versionCode": 243,
+  "versionName": "2.152.1",
+  "date": "2026-11-11",
+  "notes": [
+    "修复：",
+    "1. 使用指引删去打赏与群号",
+    "2. 数据说明指向随包协议全文"
+  ],
+  "apk": "stardew-assistant_v2.152.1_c243.apk",
+  "size": 4270006,
+  "md5": "b686383dea136f3ffa849bea61083fdf"
+}
